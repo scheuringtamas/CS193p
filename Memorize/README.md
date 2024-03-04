@@ -8,3 +8,11 @@ To play the game, you should flip the cards one by one in order to match identic
 * Swift
 * SwiftUI
 * MVVM
+
+## Screenshot
+
+<br>
+<p align="center">
+  <img src="/Memorize/Screenshot/Memorize.gif" alt="" width="300" align="middle">
+</p>
+<br>
